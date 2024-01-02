@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-int mai()
+int main()
 {
     // while loop = repeats a section of code possibly unlimited times.
     // WHILE some condition remains true
